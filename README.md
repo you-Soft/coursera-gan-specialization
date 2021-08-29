@@ -34,9 +34,4 @@ The GAN Specialization on Coursera contains three courses:
 
 - This Specialization provides an accessible pathway for all levels of learners looking to break into the GANs space or apply GANs to their own projects, even without prior familiarity with advanced math and machine learning research.
 
-## Programming Assignments
-
-### Course 1: Build Basic Generative Adversarial Networks (GANs)
-
-- This is the first course of the Generative Adversarial Networks (GANs) Specialization.
 
